@@ -4,4 +4,5 @@ Authors: Michelle Makhija, Bihan Dasgupta
 
 Goal:
 
-Tech Stack Used:
+Tech Stack Used-
+Python Libs: requests, beautifulsoup, pandas, matplotlib
